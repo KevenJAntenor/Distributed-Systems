@@ -25,9 +25,3 @@ This project implements a distributed system that **[brief description of what y
 - Example:
   - `Node.js >= v14`
   - `Docker >= v20`
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/distributed-systems.git
-   cd distributed-systems
