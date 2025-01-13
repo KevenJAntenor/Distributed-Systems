@@ -25,3 +25,23 @@ This project implements a distributed system that **[brief description of what y
 - Example:
   - `Node.js >= v14`
   - `Docker >= v20`
+ 
+## How to Run
+
+Follow these steps to set up and run the Python program:
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/your-repo/distributed-systems.git
+   cd distributed-systems
+Install Dependencies Ensure you have Python installed (version >= 3.8 is recommended). Install the required dependencies using pip:
+
+```bash
+pip install -r requirements.txt
+```
+Run the Jupyter Notebook Start Jupyter Notebook to execute the main.ipynb file:
+
+```bash
+jupyter notebook
+```
+Open the Notebook In the Jupyter interface that opens in your web browser, navigate to and open main.ipynb. Execute the cells sequentially to run the program.
