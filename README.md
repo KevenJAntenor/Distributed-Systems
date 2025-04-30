@@ -26,7 +26,7 @@ This project implements a distributed system that **[brief description of what y
   - `Node.js >= v14`
   - `Docker >= v20`
  
-## How to Run
+## 🚀 How to Run
 
 Follow these steps to set up and run the Python program:
 
