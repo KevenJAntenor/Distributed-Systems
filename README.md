@@ -1,4 +1,4 @@
-# Distributed Systems
+# 🌐⚙️📡 Distributed Systems
 
 This project demonstrates practical applications of distributed computing concepts, including **fault tolerance**, **consistency**, and **scalability**.
 
