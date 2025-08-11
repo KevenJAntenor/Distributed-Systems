@@ -6,7 +6,7 @@ This project demonstrates practical applications of distributed computing concep
 
 This project implements a distributed system that **[brief description of what your system does, e.g., manages distributed data, enables collaborative work, etc.]**. 
 
-### Key Features:
+### 🧠🧩 Key Features:
 - **Distributed Architecture**: Utilizes [technologies/protocols, e.g., gRPC, REST APIs, etc.] to ensure efficient communication across nodes.
 - **Fault Tolerance**: Includes mechanisms to handle node failures gracefully, ensuring system reliability.
 - **Data Consistency Management**: Implements strategies to maintain consistent data across all nodes, even in the presence of failures.
