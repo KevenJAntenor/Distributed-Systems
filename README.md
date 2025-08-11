@@ -18,7 +18,7 @@ This project implements a distributed system that **[brief description of what y
 - [Database/Storage technologies, e.g., PostgreSQL, MongoDB, etc.]
 - [Other tools, e.g., Kubernetes, Terraform, etc.]
 
-## Getting Started
+## 🚀🧠 Getting Started
 
 ### Prerequisites
 - [List prerequisites, e.g., software versions, dependencies, etc.]
