@@ -20,7 +20,7 @@ This project implements a distributed system that **[brief description of what y
 
 ## 🚀🧠 Getting Started
 
-### Prerequisites
+### ⚙️ Prerequisites
 - [List prerequisites, e.g., software versions, dependencies, etc.]
 - Example:
   - `Node.js >= v14`
